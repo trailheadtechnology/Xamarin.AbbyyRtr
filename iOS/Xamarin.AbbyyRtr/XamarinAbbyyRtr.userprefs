@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4206D254-02AC-4F65-B5CC-A63B172BB20A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Xamarin.AbbyyRtr.iOS.Sample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.40051e8f846c1ee252ff265aa04f995414ecff3b" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin.AbbyyRtr.iOS.Sample/ViewController.cs">
+    <Files>
+      <File FileName="Xamarin.AbbyyRtr.iOS.Sample/ViewController.cs" Line="203" Column="1" />
+      <File FileName="Xamarin.AbbyyRtr.iOS.Sample/ViewController.designer.cs" Line="21" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinAbbyyRtr" expanded="True">
+            <Node name="Xamarin.AbbyyRtr.iOS.Sample" expanded="True" selected="True">
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
