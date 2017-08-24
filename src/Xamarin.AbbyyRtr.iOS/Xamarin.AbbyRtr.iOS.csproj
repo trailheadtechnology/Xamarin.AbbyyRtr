@@ -39,7 +39,7 @@
     <ObjcBindingApiDefinition Include="StructsAndEnums.cs" />
   </ItemGroup>
   <ItemGroup>
-    <NativeReference Include="AbbyyRtrSDK">
+    <NativeReference Include="..\..\native\AbbyyRtrSDK">
       <Kind>Static</Kind>
       <SmartLink>true</SmartLink>
       <Frameworks>AVFoundation CoreVideo CoreMedia Security</Frameworks>
